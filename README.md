@@ -3,7 +3,7 @@
 𝙸 𝙰𝙼 𝙼𝙳 𝚂𝙷𝙰𝙺𝙸𝙱
 
 ## 🌐 Socials:
-(https://www.facebook.com/DARKSOUL991)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/DARKSOUL911)
 (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python]
 # 📊 GitHub Stats:SHAKIB-71
 ![](https://github-readme-stats.vercel.app/api?username=SHAKIB-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
