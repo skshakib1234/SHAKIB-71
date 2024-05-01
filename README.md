@@ -3,10 +3,10 @@
 <h2> It's Me MUHAMMAD SHAKIB </h2>
 <h3> MAID IN BANGLADESH </h3>
 <p>SKILLS :</p>
-<ol>
-  <ul> INTERMEDIATE IN PYTHON </li>
-  <ul> NOOB IN HTML & CSS </li>
-</ol>
+<ul>
+  <li> INTERMEDIATE IN PYTHON </li>
+  <li> NOOB IN HTML & CSS </li>
+</ul>
 
 ## 🌐 Socials :
 [![FACEBOOK](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/DARKSOUL911)
