@@ -9,9 +9,9 @@
   <li> INTERMEDIATE IN PYTHON </li>
   <li> NOOB IN HTML & CSS </li>
 </ul>
-<h2>     ACCOUNT/h2>
+<h2>     ACCOUNT</h2>
 
-<a herf="https://www.facebook.com/DARKSOUL911"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a herf="https://www.facebook.com/DARKSOUL911"><img alt="FACEBOOK" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SHAKIB-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
