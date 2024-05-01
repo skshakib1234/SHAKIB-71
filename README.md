@@ -9,9 +9,9 @@
   <li> INTERMEDIATE IN PYTHON </li>
   <li> NOOB IN HTML & CSS </li>
 </ul>
-
 ## 🌐 Socials :
 
+<img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white">
 [![Static Badge](https://img.shields.io/badge/FACEBOOK_ACCOUNT-black)](https://www.facebook.com/DARKSOUL911)
 
 [![Static Badge](https://img.shields.io/badge/FACEBOOK_GROUP-black)](https://facebook.com/groups/814354150210238/)
