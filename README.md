@@ -2,7 +2,7 @@
 
 <h2> It's Me MUHAMMAD SHAKIB </h2>
 <h3> MAID IN BANGLADESH </h3>
-<p style="font-size:20px">SKILLS :</p>
+<p style="font-size:40px">SKILLS :</p>
 <ul>
   <li> INTERMEDIATE IN PYTHON </li>
   <li> NOOB IN HTML & CSS </li>
