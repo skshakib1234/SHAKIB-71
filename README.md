@@ -5,7 +5,7 @@
 <p>SKILLS :</p>
 <ul>
   <li> INTERMEDIATE IN PYTHON </li>
-  <li> NOOB IN HTML & CSS </li>
+  <li>  NOOB IN HTML & CSS </li>
 </ul>
 
 ## 🌐 Socials :
