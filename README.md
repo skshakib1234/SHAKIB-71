@@ -9,12 +9,10 @@
   <li> INTERMEDIATE IN PYTHON </li>
   <li> NOOB IN HTML & CSS </li>
 </ul>
-## 🌐 Socials :
+<h2>     ACCOUNT/h2>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white">
-[![Static Badge](https://img.shields.io/badge/FACEBOOK_ACCOUNT-black)](https://www.facebook.com/DARKSOUL911)
+<a herf="https://www.facebook.com/DARKSOUL911"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
-[![Static Badge](https://img.shields.io/badge/FACEBOOK_GROUP-black)](https://facebook.com/groups/814354150210238/)
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SHAKIB-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SHAKIB-71&theme=dark&hide_border=false)<br/>
