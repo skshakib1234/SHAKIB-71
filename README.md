@@ -10,6 +10,7 @@
 </ul>
 
 ## 🌐 Socials :
+(https://img.shields.io/badge/any_text-you_like-blue)
 [![FACEBOOK](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/DARKSOUL911)
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SHAKIB-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
