@@ -7,15 +7,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SHAKIB-71&label=Profile%20views&color=000115&style=for-the-badge" alt="MUHAMMAD SHAKIB" /> </p>
 
+</br>
 <h4 align="center">SKILLS</h4>
 <p align="center"> INTERMEDIATE IN PYTHON </p>
 <p align="center"> NOOB IN HTML & CSS </p>
-
+</br>
 <h2 align="center">ACCOUNT</h2>
-
 <p align="center"><a href="https://www.facebook.com/DARKSOUL911"><img alt="FACEBOOK" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://t.me/MUHAMMADSHAKIB71"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
+<a href="https://t.me/MUHAMMADSHAKIB71"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
+</br>
 <h2 align="center">CURRENT STATS</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=SHAKIB-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
