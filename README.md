@@ -4,6 +4,9 @@
 <h2> It's Me MUHAMMAD SHAKIB </h2>
 <h3> FOUNDER OF DARK SOUL </h3>
 <h3> MAID IN BANGLADESH </h3>
+
+<p align="center><img src="https://komarev.com/ghpvc/?username=SHAKIB-71&label=Profile%20views&color=0e75b6&style=flat" alt="SHAKIB-71" /></p>
+
 <h4 align="center">SKILLS</h4>
 <ul>
   <li> INTERMEDIATE IN PYTHON </li>
