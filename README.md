@@ -12,7 +12,7 @@
 <h2 align="center">ACCOUNT</h2>
 
 <a href="https://www.facebook.com/DARKSOUL911"><img alt="FACEBOOK" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="t.me/MUHAMMADSHAKIB71"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/MUHAMMADSHAKIB71"><img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <h2 align="center">CURRENT STATS</h2>
 
