@@ -1,11 +1,17 @@
+<style>
+  .skl{
+    font-size:20px
+  }
+</style>
+
 ![Picsart_23-06-13_21-34-39-272](https://github.com/skshakib1234/Aprv/assets/111051965/1417c00b-15c5-4146-be13-1a75f31a4aa1)
 
 <h2> It's Me MUHAMMAD SHAKIB </h2>
 <h3> MAID IN BANGLADESH </h3>
 <p>SKILLS :</p>
 <ul>
-  <li> INTERMEDIATE IN PYTHON </li>
-  <li>  NOOB IN HTML & CSS </li>
+  <li class="skl"> INTERMEDIATE IN PYTHON </li>
+  <li class="skl"> NOOB IN HTML & CSS </li>
 </ul>
 
 ## 🌐 Socials :
