@@ -6,7 +6,7 @@
     <p >Welcome to my coding Journey</p>
     <p> <img src="https://komarev.com/ghpvc/?username=SHAKIB-71&label=Profile%20viewd%20by&color=000115&style=for-the-badge" alt="MUHAMMAD SHAKIB" /> </p>
     <p>
-      <a href="https://www.facebook.com/DARKSOUL911"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="FACEBOOK"></a>
+      <a href="https://www.facebook.com/MUHAMMADSHAKIB93"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="FACEBOOK"></a>
       <a href="https://t.me/MUHAMMADSHAKIB71"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"></a>
     </p>
     <h2>💼 Skills</h2>
